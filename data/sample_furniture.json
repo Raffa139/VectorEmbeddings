@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Modern Velvet Armchair",
+    "description": "Sink into luxurious comfort with this stylish velvet armchair. Its sleek design and plush cushioning make it the perfect addition to any living room or reading nook. Available in a variety of rich colors.",
+    "price": 299.99,
+    "additional_info": {
+      "material": "Velvet, Metal",
+      "dimensions": {
+        "height": "80cm",
+        "width": "75cm",
+        "depth": "85cm"
+      },
+      "assembly_required": "No"
+    }
+  },
+  {
+    "title": "Rustic Oak Dining Table",
+    "description": "Gather around this beautifully crafted solid oak dining table. Its natural wood grain and sturdy construction create a warm and inviting atmosphere for family meals and gatherings. Seats 6-8 people.",
+    "price": 549.00,
+    "additional_info": {
+      "material": "Solid Oak Wood",
+      "dimensions": {
+        "length": "180cm",
+        "width": "90cm",
+        "height": "75cm"
+      },
+      "finish": "Natural Oil"
+    }
+  },
+  {
+    "title": "Woven Rattan Garden Lounge Set",
+    "description": "Create your perfect outdoor oasis with this elegant rattan lounge set. Includes a comfortable sofa, two armchairs, and a coffee table with a tempered glass top. Weather-resistant and stylish.",
+    "price": 799.50,
+    "additional_info": {
+      "material": "PE Rattan, Powder-coated Steel Frame, Polyester Cushions",
+      "set_includes": [
+        "Sofa",
+        "2 Armchairs",
+        "Coffee Table"
+      ],
+      "cushion_color": "Beige"
+    }
+  },
+  {
+    "title": "Industrial Style Bookshelf",
+    "description": "Organize your books and display your decor with this trendy industrial-style bookshelf. Featuring sturdy metal shelves and a minimalist design, it's perfect for lofts, offices, or living rooms.",
+    "price": 149.00,
+    "additional_info": {
+      "material": "Metal, MDF",
+      "number_of_shelves": 5,
+      "assembly_required": "Yes"
+    }
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "description": "Boost your productivity with this comfortable and supportive ergonomic office chair. Features adjustable height, lumbar support, and breathable mesh back for all-day comfort.",
+    "price": 229.99,
+    "additional_info": {
+      "material": "Mesh, Nylon, Metal",
+      "adjustability": [
+        "Seat Height",
+        "Lumbar Support",
+        "Armrest Height"
+      ],
+      "weight_capacity": "120kg"
+    }
+  },
+  {
+    "title": "Folding Camping Chair",
+    "description": "Lightweight and portable, this folding camping chair is perfect for outdoor adventures, picnics, and relaxing in the garden. Folds flat for easy storage and transport.",
+    "price": 25.50,
+    "additional_info": {
+      "material": "Polyester, Steel",
+      "weight_capacity": "100kg",
+      "features": [
+        "Cup Holder",
+        "Carry Bag"
+      ]
+    }
+  },
+  {
+    "title": "Scandinavian Style Bed Frame",
+    "description": "Embrace minimalist elegance with this Scandinavian-inspired bed frame. Its clean lines and natural wood finish create a serene and stylish bedroom atmosphere. Mattress not included.",
+    "price": 379.00,
+    "additional_info": {
+      "material": "Solid Pine Wood",
+      "bed_size": "Queen",
+      "assembly_required": "Yes"
+    }
+  },
+  {
+    "title": "Small Wooden Side Table",
+    "description": "A versatile and charming small wooden side table, perfect for holding drinks, lamps, or decorative items next to your sofa or bed. Its simple design complements any decor.",
+    "price": 49.99,
+    "additional_info": {
+      "material": "Solid Wood",
+      "dimensions": {
+        "diameter": "40cm",
+        "height": "50cm"
+      },
+      "finish": "Natural"
+    }
+  },
+  {
+    "title": "Outdoor Patio Umbrella",
+    "description": "Stay cool and shaded on sunny days with this large patio umbrella. Features a durable canopy and a sturdy pole. Easy to open and close.",
+    "price": 89.75,
+    "additional_info": {
+      "material": "Polyester Canopy, Aluminum Pole",
+      "diameter": "3m",
+      "color": "Taupe"
+    }
+  },
+  {
+    "title": "Modern TV Stand with Storage",
+    "description": "This sleek and modern TV stand offers ample storage space for your media devices, consoles, and accessories. Features a clean design with push-to-open doors.",
+    "price": 199.00,
+    "additional_info": {
+      "material": "MDF, Particleboard",
+      "dimensions": {
+        "width": "140cm",
+        "depth": "40cm",
+        "height": "50cm"
+      },
+      "number_of_shelves": 2
+    }
+  }
+]
