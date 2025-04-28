@@ -53,3 +53,8 @@ GEMINI_API_KEY="<Your-API-Key>"
 - https://python.langchain.com/docs/concepts/lcel/
 - https://python.langchain.com/docs/how_to/MultiQueryRetriever/
 - https://www.pinecone.io/learn/series/langchain/langchain-expression-language/
+
+
+- https://tavily.com/
+- https://python.langchain.com/docs/how_to/migrate_agent/
+- https://gautam75.medium.com/multi-modal-rag-a-practical-guide-99b0178c4fbb
